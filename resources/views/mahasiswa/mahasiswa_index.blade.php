@@ -13,6 +13,9 @@
   <title>Mahasiswa</title>
 </head>
 <body>
+  <center>
+    <h1>Data Mahasiswa</h1>
+  </center>
   <br>
   <div class="container">
     <div>
